@@ -35,4 +35,4 @@ This project demonstrates a more advanced use of **GSAP** and **ScrollTrigger** 
 2. Open the project folder and start a live server (for example, using VSCode's Live Server extension) or open `index.html` directly in your browser.
 
 ## Live Demo
-[Click here to view the live demo](#)
+https://alex-borisov92.github.io/galery-animation/
